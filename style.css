@@ -1,0 +1,77 @@
+.image{
+    height: 140px;
+    width: 200px;
+    border: #073f82 solid;
+
+   }
+
+   .imageSell{
+    height: 140px;
+    width: 200px;
+    border:#085f02 solid;
+
+   }
+
+   .product {float:left ; 
+    margin:15px;
+    border:solid #073f82 2px;
+    padding:27px; 
+    text-align:center;
+    font-size: large;
+    background-color: #73aeb8;
+    color: rgb(0, 0, 0);
+    font-family: Montserrat,sans-serif;
+
+   }
+   .productSell {float:left ; 
+    margin:15px;
+    border:solid #085f02 2px;
+    padding:27px; 
+    text-align:center;
+    font-size: large;
+    background-color: #03ba2d;
+    color: rgb(0, 0, 0);
+    font-family: Montserrat,sans-serif;
+
+   }
+
+   h1{font-family: Montserrat,sans-serif;
+    text-align:center;
+    color:#0d70ea;
+    font-size: 45px;
+    margin: 10px;
+
+   }
+
+   body{
+    font-size:large;
+    background-color: rgb(244, 240, 240);
+    font-family: Montserrat,sans-serif;
+   }
+
+   button{
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+    font-family: Montserrat,sans-serif;
+    font-size: .9em;
+    margin: 2px;
+    padding: 5px 7px;
+    text-align: center;
+    border: #073f82 solid 1px;
+   }
+
+   .btndiv{
+    border-radius: 4px;
+    color: rgb(0, 0, 0);
+    font-family: Montserrat,sans-serif;
+    font-size: .9em;
+    margin: 5px;
+    padding: 10px 15px;
+    text-align: center;
+    border: #073f82 solid 1px;
+   }
+
+   .inputBox{
+    border-radius: 4px;
+   width: 180px;
+    height: 20px; }
